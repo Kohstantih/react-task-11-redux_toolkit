@@ -1,0 +1,15 @@
+.film-item_wrapper {
+    border: 1px solid gray;
+    border-radius: 10px;
+
+    background-color: whitesmoke;
+    margin-bottom: 10px;
+
+    cursor: pointer;
+}
+
+.film-item_wrapper:hover {
+    opacity: 0.9;
+    background-color: white;
+
+}
